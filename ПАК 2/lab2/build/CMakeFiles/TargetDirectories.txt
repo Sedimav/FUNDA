@@ -1,0 +1,4 @@
+/Users/sedimav/Desktop/ФУНДА/ПАК 2/lab2/build/CMakeFiles/lab2.dir
+/Users/sedimav/Desktop/ФУНДА/ПАК 2/lab2/build/CMakeFiles/run.dir
+/Users/sedimav/Desktop/ФУНДА/ПАК 2/lab2/build/CMakeFiles/edit_cache.dir
+/Users/sedimav/Desktop/ФУНДА/ПАК 2/lab2/build/CMakeFiles/rebuild_cache.dir
