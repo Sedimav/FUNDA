@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/lab5.dir/main.c.o CMakeFiles/lab5.dir/src/func.c.o -o lab5
